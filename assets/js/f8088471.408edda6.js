@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcskefu_docs=self.webpackChunkcskefu_docs||[]).push([[817],{1078:s=>{s.exports=JSON.parse('{"permalink":"/cskefu-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
