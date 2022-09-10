@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcskefu_docs=self.webpackChunkcskefu_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u6625\u677e\u5ba2\u670d\u5f00\u6e90\u793e\u533a\u6210\u7acb","permalink":"/cskefu-docs/blog/welcome"}]}')}}]);
