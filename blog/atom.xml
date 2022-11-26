@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.cskefu.com/blog</id>
     <title>春松客服 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2022-10-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.cskefu.com/blog"/>
     <subtitle>春松客服 Blog</subtitle>
     <icon>https://docs.cskefu.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[春松客服 V8 版本]]></title>
+        <id>cskefu-v8</id>
+        <link href="https://docs.cskefu.com/blog/cskefu-v8"/>
+        <updated>2022-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[image]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="image" src="/assets/images/Cskefu-ccd0c904e423993f450a2ecbd4c1c7a8.svg" width="1308" height="5303" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>船长</name>
+            <uri>https://github.com/samzong</uri>
+        </author>
+        <author>
+            <name>hailiang-wang</name>
+            <uri>https://github.com/hailiang-wang</uri>
+        </author>
+        <category label="cskefu" term="cskefu"/>
+        <category label="roadmap" term="roadmap"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[春松客服开源社区成立]]></title>
         <id>welcome</id>
@@ -23,6 +41,6 @@
             <uri>https://github.com/hailiang-wang</uri>
         </author>
         <category label="cskefu" term="cskefu"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="team" term="team"/>
     </entry>
 </feed>

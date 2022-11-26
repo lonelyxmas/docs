@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcskefu_docs=self.webpackChunkcskefu_docs||[]).push([[4468],{6671:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/cskefu","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
