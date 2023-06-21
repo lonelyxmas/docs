@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcskefu_docs=self.webpackChunkcskefu_docs||[]).push([[6143],{75811:e=>{e.exports=JSON.parse('[{"label":"cskefu","permalink":"/cskefu-docs/blog/tags/cskefu","count":2},{"label":"roadmap","permalink":"/cskefu-docs/blog/tags/roadmap","count":1},{"label":"team","permalink":"/cskefu-docs/blog/tags/team","count":1}]')}}]);
