@@ -8,11 +8,17 @@ sidebar_position: 1
 
 ## 视频教程
 
+### 客服系统使用
+
+* [去 B 站观看](https://www.bilibili.com/video/BV1YVatzFEKb)
+* [去 YouTube 观看](https://www.youtube.com/watch?v=JIldl2v9lQA&list=PLh_KT9y7mpqZcQADCNULojU-iHZ0l2htS)
+* [去 夸克网盘下载](https://pan.quark.cn/s/bc662c2075fe?pwd=CREJ)
+
+### 定制化开发
+
 本文介绍如何完成春松客服开发环境的搭建，**面向企业/开发者提供关于春松客服二次开发的相关知识，从入门到掌握全部开发技能请学习[《春松客服大讲堂》](https://docs.cskefu.com/docs/osc/training)**。
 
 春松客服是拥有坐席管理、渠道管理、机器人客服、数据分析、CRM 等功能于一身的新一代客服系统。将智能机器人与人工客服完美融合，同时整合了多种渠道，结合 CRM 系统，为客户打标签，建立客户的人群画像等，帮助企业向客户提供更加专业客服服务。
-
-目前，春松客服发行的稳定版本为 v8.x。
 
 ## 产品定义
 

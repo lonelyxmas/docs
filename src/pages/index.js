@@ -17,8 +17,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://docs.cskefu.com/docs/deploy/">
-            快速部署
+            to="https://www.bilibili.com/video/BV1YVatzFEKb">
+            观看介绍
           </Link>
         </div>
       </div>
