@@ -17,8 +17,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://www.bilibili.com/video/BV1YVatzFEKb">
-            观看介绍
+            to="https://docs.cskefu.com/docs/licenses/">
+            版本及服务
           </Link>
         </div>
       </div>
