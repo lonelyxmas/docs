@@ -84,13 +84,21 @@ sidebar_position: 4
 
 ## 下一步
 
-[坐席工作台的使用注意事项](/docs/work)
+### 坐席工作台的使用注意事项
 
-[创建网页聊天控件](/docs/channels/webim/)
+* [坐席工作台的使用注意事项](/docs/work)
 
-[配置机器人客服](/docs/work-chatbot/)
+### 创建网页聊天控件
 
-[春松客服系统维护：升级、备份、回退等](/docs/osc/maintainence)
+* [创建网页聊天控件](/docs/channels/webim/)
+
+### 配置机器人客服
+
+* [配置机器人客服](/docs/work-chatbot/)
+
+### 春松客服系统维护
+
+* [春松客服系统维护：升级、备份、回退等](/docs/osc/maintainence)
 
 ## 常见问题
 
