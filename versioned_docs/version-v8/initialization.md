@@ -12,9 +12,9 @@ sidebar_position: 4
 
 默认的账号 `admin` 是超级管理员，该账号做了特殊处理：可以使用坐席工作台，但是不具备接待访客会话的能力。
 
-只有对系统进行初始化，才能开始处理客户咨询，所以初始化主要是针对坐席管理的，也请先详细阅读 [权限设计](/products/cskefu/accounting.html#%E6%9D%83%E9%99%90%E8%AE%BE%E8%AE%A1)。
+只有对系统进行初始化，才能开始处理客户咨询，所以初始化主要是针对坐席管理的，也请先详细阅读 [权限设计](/docs/accounting#权限设计)。
 
-在您了解了`组织机构`、`角色`、`账号`和[网页渠道](/products/cskefu/channels/webim.html)的概念后，继续阅读一下内容。
+在您了解了`组织机构`、`角色`、`账号`和[网页渠道](/docs/channels/)的概念后，继续阅读一下内容。
 
 **春松客服刚搭建好后，合理的初始化顺序是：1）创建组织机构；2）创建角色；3）创建账号；4）账号添加到组织机构；5）账号添加到角色。** 在使用过程中，也可以灵活调整。
 
@@ -64,11 +64,11 @@ sidebar_position: 4
 
 ## 创建组织机构
 
-参考[组织机构管理](/products/cskefu/accounting.html#组织机构管理)，为企业建设一个树形的组织架构。针对坐席小组，设定为 **技能组**。
+参考[组织机构管理](/docs/accounting#组织机构管理)，为企业建设一个树形的组织架构。针对坐席小组，设定为 **技能组**。
 
 ## 创建角色
 
-参考[角色管理](/products/cskefu/accounting.html#%E8%A7%92%E8%89%B2%E7%AE%A1%E7%90%86)，创建角色并授予相应的权限，客服人员主要需要的资源就是**坐席对话**，**全部客户** 和 **全部联系人**，此处**全部客户**和**全部联系人**是限定在该坐席所在的组织机构和下属组织机构而言的。
+参考[角色管理](/docs/accounting#角色管理)，创建角色并授予相应的权限，客服人员主要需要的资源就是**坐席对话**，**全部客户** 和 **全部联系人**，此处**全部客户**和**全部联系人**是限定在该坐席所在的组织机构和下属组织机构而言的。
 
 ![创建角色](images/products/cskefu/init-1.jpg)
 
@@ -80,17 +80,17 @@ sidebar_position: 4
 
 ## 创建账号
 
-参考[账号管理](/products/cskefu/accounting.html#%E8%B4%A6%E5%8F%B7%E7%AE%A1%E7%90%86)，**创建账号后，将账号添加到组织机构和角色**。
+参考[账号管理](/docs/accounting)，**创建账号后，将账号添加到组织机构和角色**。
 
 ## 下一步
 
-[坐席工作台的使用注意事项](/products/cskefu/work.html)
+[坐席工作台的使用注意事项](/docs/work)
 
-[创建网页聊天控件](https://docs.chatopera.com/products/cskefu/channels/webim.html)
+[创建网页聊天控件](/docs/channels/webim/)
 
-[配置机器人客服](/products/cskefu/work-chatbot/index.html)
+[配置机器人客服](/docs/work-chatbot/)
 
-[春松客服系统维护：升级、备份、回退等](/products/cskefu/osc/maintainence.html)
+[春松客服系统维护：升级、备份、回退等](/docs/osc/maintainence)
 
 ## 常见问题
 
